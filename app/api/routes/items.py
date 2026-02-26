@@ -1,12 +1,12 @@
 """Items CRUD endpoints."""
-
 from fastapi import APIRouter, HTTPException
 from pydantic import BaseModel
+from typing import Any
 
 router = APIRouter()
 
 # In-memory storage for demo purposes
-items_db: dict[int, dict[str, str | int]] = {}
+items_db: dict[int, dict[str, Any]] = {}
 next_id = 1
 
 
