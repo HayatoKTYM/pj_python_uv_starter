@@ -3,7 +3,6 @@ name: Feature request
 about: 機能追加・改善提案を背景と Why 付きで共有する
 title: "[Feature] "
 labels: enhancement
-assignees: ""
 ---
 
 ## Summary
