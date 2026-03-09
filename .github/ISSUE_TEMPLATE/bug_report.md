@@ -3,7 +3,6 @@ name: Bug report
 about: 不具合を報告し、背景や Why を共有する
 title: "[Bug] "
 labels: bug
-assignees: ""
 ---
 
 ## Summary
