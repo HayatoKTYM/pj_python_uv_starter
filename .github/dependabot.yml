@@ -9,6 +9,8 @@ updates:
       timezone: "Asia/Tokyo"
     open-pull-requests-limit: 5
     target-branch: "main"
+    reviewers:
+      - "HayatoKTYM"
     labels:
       - "dependencies"
       - "python"
@@ -32,6 +34,8 @@ updates:
       timezone: "Asia/Tokyo"
     open-pull-requests-limit: 3
     target-branch: "main"
+    reviewers:
+      - "HayatoKTYM"
     labels:
       - "dependencies"
       - "github-actions"
